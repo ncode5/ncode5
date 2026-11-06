@@ -1,121 +1,147 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Hey, I'm Nirmal Jana 👋
 
-<p data-importer="text" align="left">I am Nirmal Jana from WB , INDIA.</p>
+### Exploring Technology | AI & Machine Learning | Research | Social Impact
 
-###
+📍 West Bengal, India 🇮🇳
 
-<h2 data-importer="text" align="left">About me</h2>
+*"Technology becomes meaningful when it solves problems that matter to humanity."*
 
-###
+<br>
 
-<p data-importer="text" align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning AI Ethics<br>🎯 Goals: Solving social problem<br>🎲 Fun fact: I don't know how to program traditionally</p>
+<a href="https://github.com/ncode5">
+  <img src="https://img.shields.io/badge/GitHub-ncode5-181717?style=for-the-badge&logo=github" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ncode5&style=for-the-badge&color=blueviolet" />
 
-###
-
-<h2 data-importer="text" align="left">I code with</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+## 🧑‍💻 About Me
+
+I'm a Computer Applications student interested in exploring how technology, artificial intelligence, and human thinking can work together to solve real-world problems.
+
+- 🎓 Currently pursuing BCA.
+- 🤖 Exploring Artificial Intelligence, Machine Learning & AI Ethics.
+- 🔍 Interested in research, data analytics, and emerging technologies.
+- 🌍 Passionate about social innovation and technology-driven development.
+- ✍️ A writer who enjoys philosophy, history, society, and human behaviour.
+- 🎯 My goal: Build meaningful solutions with a positive social impact.
+
+**I believe learning technology is not just about writing code; it's about understanding problems and creating meaningful solutions.**
+
+---
+
+## 🚀 Areas of Interest
+
+| Domain | What I'm Exploring |
+|---|---|
+| Artificial Intelligence | Machine Learning, AI Agents, AI Ethics |
+| Data Science | Data Analytics, EDA, Predictive Modelling |
+| Computer Science | DSA, DBMS, Operating Systems, Networking |
+| Research | Technology & Society, Emerging Technologies |
+| Social Innovation | Rural Development, Digital Inclusion, Livelihoods |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js,php,r,ruby" />
+</p>
+
+### AI, Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,anaconda,opencv" />
+</p>
+
+### Web Development & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,wordpress,notion" />
+</p>
+
+### Libraries & Other Tools
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Streamlit` · `Canva` · `RStudio`
+
+---
+
+## 💡 Featured Projects
+
+Here are some of the projects I'm working on and learning from:
+
+| Project | Description |
+|---|---|
+| [SIH26](https://github.com/ncode5/SIH26) | Urban Flood Nowcasting System – Technology for urban flood management. |
+| [Bank Loan Prediction](https://github.com/ncode5/bank-loan-prediction) | Machine Learning-based loan approval prediction. |
+| [AI Chatbot API](https://github.com/ncode5/AI_Chatbot_API) | Exploring AI-powered chatbot development using Python and Gemini API. |
+
+*Learning through experimentation, collaboration, and building real-world solutions.*
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ncode5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncode5&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ncode5&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ncode5/ncode5/snake-output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Journey
 
-###
+<div align="center">
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ncode5.ncode5&"  />
+<img src="https://raw.githubusercontent.com/ncode5/ncode5/snake-output/snake.svg" alt="Contribution Snake Animation" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ncode5/ncode5/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ncode5/ncode5/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ncode5/ncode5/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## 🌱 My Journey & Ambition
 
-###
+I'm still learning, experimenting, making mistakes, and improving.
 
-<p data-importer="text" align="left">MY journey and ambition</p>
+My journey is not limited to becoming a programmer. I want to understand the relationship between technology, society, humanity, and the future.
 
-###
+**Long-term vision:**
+- Build technology-driven solutions for social challenges.
+- Explore research opportunities in AI and emerging technologies.
+- Contribute to meaningful open-source projects.
+- Connect computer science with philosophy and human development.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ncode5/ncode5/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ncode5/ncode5/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Learn Together
+
+**Always open to learning, collaboration, research, and meaningful conversations.**
+
+<br>
+
+<a href="https://github.com/ncode5">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+*"Stay curious. Think deeply. Build meaningfully."*
+
 </div>
-
-###
